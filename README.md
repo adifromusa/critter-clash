@@ -4,9 +4,10 @@ A fast, original creature card duel. Play solo against Rhea, or pass and play wi
 
 ## Play
 
-The game is live at **https://adifromusa.github.io/critter-clash/**.
+The game is live at:
 
-A Netlify site is also configured at **https://critter-clash-515.netlify.app**.
+- **GitHub Pages:** https://adifromusa.github.io/critter-clash/
+- **Netlify:** https://critter-clash-515.netlify.app
 
 You can also open `index.html` directly in any modern browser.
 
